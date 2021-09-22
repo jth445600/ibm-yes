@@ -1,7 +1,7 @@
 > ref: https://github.com/CCChieh/IBMYes
 
 ```
-git clone https://github.com/elvizlai/ibm-yes.git
+git clone https://github.com/jth445600/ibm-yes.git
 ibmcloud target --cf
 ibmcloud cf push
 ```
