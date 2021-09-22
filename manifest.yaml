@@ -1,5 +1,5 @@
 applications:
   - path: .
-    name: ibm-transit
+    name: testgbb
     random-route: true
     memory: 256M
